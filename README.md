@@ -30,7 +30,7 @@ $ mkdir Calculator
 $ cd Calculator
 ~/Calculator $
 ~/Calculator $ npm install express body-parser
-~/Calculator $ node "calculator.js"
+~/Calculator $ node "index.html"
 ```
 
 ## Screenshot
